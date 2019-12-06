@@ -3,22 +3,26 @@
     {
       "country": "Japan",
       "city": "Tokyo",
-      "alert": "Orange"
+      "alert": "Orange",
+      "id": "1"
     },
     {
       "country": "United States",
       "city": "Pheonix",
-      "alert": "Yellow"
+      "alert": "Yellow",
+      "id": "2"
     },
     {
       "country": "England",
       "city": "London",
-      "alert": "Green"
+      "alert": "Green",
+      "id": "3"
     },
     {
       "country": "United States",
       "city": "Riverside, CA",
-      "alert": "Red"
+      "alert": "Red",
+      "id": "4"
     }
   ]
 }
