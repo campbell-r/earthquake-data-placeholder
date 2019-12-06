@@ -1,24 +1,24 @@
-"earthquakes": [
-  {
-    "country": "Japan",
-    "city": "Tokyo",
-    "alert": "Orange"
-
-  },
-  {
-    "country": "United States",
-    "city": "Pheonix",
-    "alert": "Yellow"
-
-  },    {
-    "country": "England",
-    "city": "London",
-    "alert": "Green"
-
-  },    {
-    "country": "United States",
-    "city": "Riverside, CA",
-    "alert": "Red"
-  },
-  {
-   
+{
+  "earthquakes": [
+    {
+      "country": "Japan",
+      "city": "Tokyo",
+      "alert": "Orange"
+    },
+    {
+      "country": "United States",
+      "city": "Pheonix",
+      "alert": "Yellow"
+    },
+    {
+      "country": "England",
+      "city": "London",
+      "alert": "Green"
+    },
+    {
+      "country": "United States",
+      "city": "Riverside, CA",
+      "alert": "Red"
+    }
+  ]
+}
